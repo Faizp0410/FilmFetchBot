@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+MovieMagic+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+HungamaMoviez™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+MovieMagic+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+FilmFetch+𝐁𝐎𝐓!;𝗖𝗕𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+HungamaMoviez™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+HungamaMoviez+𝗕𝗢𝗧!)</p>
 <p align="center">
 
 <h1 align="center">
