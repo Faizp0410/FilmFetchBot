@@ -73,7 +73,7 @@
 * `SHORT_API` : Api Key Of Shortner Which You Use
 </details>
 
-<details>
+#<details>
 <summary><b>Deploy to Heroku</b></summary>
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
